@@ -1,7 +1,4 @@
 
-
-//Atualizado pelo GitHub
-
 CREATE TABLE [dbo].[estudos]
 (
 	[dia] [datetime] NOT NULL,
