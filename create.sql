@@ -1,6 +1,6 @@
 
 
-
+//Atualizado pelo GitHub
 
 CREATE TABLE [dbo].[estudos]
 (
@@ -11,7 +11,7 @@ CREATE TABLE [dbo].[estudos]
 
 INSERT	INTO		ESTUDOS
 VALUES 
-		--('2021-07-03','CRIA«√O DE TABELA SQL')
+		--('2021-07-03','CRIA√á√ÉO DE TABELA SQL')
 		--('','')
 
 
